@@ -13,7 +13,7 @@
 
 
 
-4.Put your Google API keys in MapFragment:841 google_maps_api:19  AndroidManifest.xml:33
+4.Put your Google API keys in MapFragment:841 google_maps_api:19(src/debug and src/release/res/values) AndroidManifest.xml:33 google-services.json:23
 
 
 
