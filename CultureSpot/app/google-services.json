@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110446635532",
+    "project_id": "culturespot-a5d0e",
+    "storage_bucket": "culturespot-a5d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110446635532:android:62b682009f91764934dc29",
+        "android_client_info": {
+          "package_name": "com.example.culturespot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110446635532-cs1f84ql5ik23miimvplrdib20ufaskc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0f2wWY_QvfK0wwgRvmbAjrznDmlyO-6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110446635532-cs1f84ql5ik23miimvplrdib20ufaskc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
