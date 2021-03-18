@@ -17,4 +17,4 @@
 
 
 
-5.Rund the code from Android Studio
+5.Run the code from Android Studio
