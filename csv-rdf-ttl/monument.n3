@@ -1,0 +1,224 @@
+
+<http://ai.di.uoa.gr/OSM/monument/id/1> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7237662"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Λειψύδριον"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1172743824"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1284395"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Λειψύδριον"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/2> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.774122"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο Πυροσβεστών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1174474701"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Firefighters monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMemorial> "stele"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9390318"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μνημείο Πυροσβεστών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/3> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "24.000003"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Τρόπαιο Νίκης Μαραθώνος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1433530987"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Trophy of Marathon"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1407605"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/4> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.9783453"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Τύμβος Αθηναίων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1433530988"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q48802540"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Tomb of the Athenians"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1179246"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/5> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.949001"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Τύμβος Πλαταιέων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1433530997"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1232299"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/6> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6294909"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "artwork"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο Αφανούς Ναύτη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1695456758"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasArtwork_type> "sculpture"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAlt_name> "Σταυρός Πειραϊκής"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.928323"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/7> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7314255"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μελίνα Μερκούρη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Μελίνα Μερκούρη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2382892203"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q228611"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSubjectWikidata> "Q228611"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasStart_date> "1999"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameRu> "?????? ???????"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasArtist_name> "Αναστάσιος Κρατίδης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMaterial> "marble"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Melina Mecouri"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMemorial> "bust"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.969856"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μελίνα Μερκούρη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameDe> "Melina Mercouri"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameFr> "Melina Mercouri"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEs> "Mel?na Merko?ri"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/8> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7592791"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2674342854"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0726354"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/9> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7981636"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2929361405"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.022699"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/10> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7975107"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3048097042"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0215644"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/11> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.8159532"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "VIGOR"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3783017829"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9557997"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/12> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7110638"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ριμινιτών- Ιερολοχιτών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3797111734"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0359658"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/13> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7313695"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Καμπούρογλου(ς)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3800571101"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9718515"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMemorialType> "statue"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/14> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7310798"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Χατζηαποστόλου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3800571102"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9717495"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMemorialType> "statue"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/15> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7367132"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ζάππειο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4078515150"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Zappeion"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Zapion Expedition & Congress Hall"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9715065"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Ζάππειο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/16> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6527432"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "agios konstantinos"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "12351"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4612899173"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Μεσολογγίου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "agia barbara"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9895748"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "35"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/17> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7153431"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο Λένορμαν"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5068235033"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9955164"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/18> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7153384"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο Μύλλερ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5068235034"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9955751"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/19> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7603509"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ελευθεριος Βενιζελος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5263408525"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.8927087"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/20> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7664694"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Αμοιρο Πλασμα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5263433346"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.8907492"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/21> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasInscription> "Από το σημείο αυτο ξεκίνησε η πρωτη μεγαλη απεργία κατά του ναζισμού στην κατεχόμενη Ευρώπη απο τους Ελληνες τριατατικούς υπάλληλους στα Ταχυδρομεία-Τηλεγραφεία-Τηλεφωνεία. Ήταν 16:00 της 14ης Απριλίου 1942. From this point started the first big strike a"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7285346"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο κατά του ναζισμού"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5525195123"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Monument against nazism"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9813725"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/22> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.9900475"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "¶γαλμα για τον Μαραθώνιο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5876591458"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.117692"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/23> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.68803"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μνημείο Υποβρυχίων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7340670505"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Submarines monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9267674"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMemorialType> "war_memorial"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/monument/id/24> a <http://ai.di.uoa.gr/OSM/ontology#monument> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6961602"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7457633750"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "monument"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9228519"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .

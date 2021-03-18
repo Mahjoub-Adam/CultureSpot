@@ -1,0 +1,29 @@
+
+<http://ai.di.uoa.gr/OSM/castle/id/1> a <http://ai.di.uoa.gr/OSM/ontology#castle> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.8063629"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMan_made> "tower"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9709908"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1171074520"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Tower of Anthousas"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "castle"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Πύργος Ανθούσας"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/castle/id/2> a <http://ai.di.uoa.gr/OSM/ontology#castle> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.9319038"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasCastle_type> "tower"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoricCivilization> "medieval"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1555719"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4162956732"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "castle"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Πύργος του Δελαρός"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/castle/id/3> a <http://ai.di.uoa.gr/OSM/ontology#castle> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.8508787"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasCastle_type> "defensive"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.8136296"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/6268029703"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasHistoric> "castle"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Πύργος Αγίου Δημητρίου"^^<http://www.w3.org/2001/XMLSchema#string> .

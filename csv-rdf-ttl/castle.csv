@@ -1,0 +1,4 @@
+latitude,longitude,altitude,geometry,@id,historic,man_made,name,name:en,castle_type,historic:civilization
+37.9709908,23.8063629,,Point,node/1171074520,castle,tower,Πύργος Ανθούσας,Tower of Anthousas,,
+38.1555719,23.9319038,,Point,node/4162956732,castle,,Πύργος του Δελαρός,,tower,medieval
+37.8136296,23.8508787,,Point,node/6268029703,castle,,Πύργος Αγίου Δημητρίου,,defensive,

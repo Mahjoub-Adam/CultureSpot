@@ -1,0 +1,546 @@
+
+<http://ai.di.uoa.gr/OSM/museum/id/1> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/444368719"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7345297"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9477041"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/2> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/964641453"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Ιστορικό & Λαογραφικό Μουσείο Αχαρνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Folk Art Museum of Acharnes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q5464412"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7355646"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Ιστορικό και Λαογραφικό Μουσείο Αχαρνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://www.ileamousio.gr/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ιστορικό & Λαογραφικό Μουσείο Αχαρνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.080685"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/3> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/964641826"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7396929"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Archeological"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0750702"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/4> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1174611247"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Ανοιχτό Μουσείο Λατομείου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAlt_name> "Λατομείο Αλούλα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Open Quarry Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.8709776"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAlt_nameEl> "Λατομείο Αλούλα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAlt_nameEn> "Aloula quarry"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ανοιχτό Μουσείο Λατομείου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.092352"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/5> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/1708207953"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μουσείο Εθνικής Αντίστασης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "National Resistance Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7552382"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Εθνικής Αντίστασης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9311554"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/6> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2131618195"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7867418"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Καστρίτσειο Μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.025235"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/7> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2131626015"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q20750528"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.768178"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ίδρυμα \"Κωνσταντίνος Γ. Καραμανλής\""^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0219031"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/8> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2331153819"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7371157"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9810223"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/9> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/2495120575"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.550662"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.058012"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/10> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3005463590"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePl> "Muzeum Epigraficzne"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Επιγραφικό μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasEmail> "ema@culture.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousename> "Εθνικό Αρχαιολογικό Μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Su 08:00-15:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasDescription> "The Epigraphical museum exhibits 13536 inscriptions and is the biggest of its kind in the world. It displays collections of inscriptions from different historic periods of Greece, as well as some Latin and Jewish inscriptions."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Epigraphical museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEs> "Museo Epigr?fico"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q2732854"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSource> "http://odysseus.culture.gr/h/1/gh155.jsp?obj_id=3348"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu Epigr?fico"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 210 8232950"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7323306"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Επιγραφικό μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Τοσίτσα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "1"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3348"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Επιγραφικό μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.988769"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10682"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/11> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasBibliography> "Camp II J. McK., The Athenian Agora: Excavations in the Heart of Classical Athens, London 1986 Camp II J. Mck, The Athenian Agora. A guide to the Εxcavation and Μuseum 1990 Camp II J. McK, The Athenian Agora, A Short Guide to the Excavations, Excavation"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3266233641"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePl> "Muzeum Staro?ytnej Agory Ate?skiej"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μουσείο Αρχαίας Αγοράς Αθηνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "Α' Εφορεία Προϊστορικών και Κλασικών Αρχαιοτήτων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTicket> "4 euro"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousename> "Στοά του Αττάλου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "08:00-15:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactWebsite> "http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3290"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Museum of Ancient Athenian Agora"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameZh> "????????"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu da ?gora"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameFr> "Mus?e de l'Agora d'Ath?nes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7242529"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCountry> "GR"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+30 210 3210185"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Αδριανού"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "24"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNote> "Housed in the restored building of the Stoa of Attalos, the exhibition of the Museum contains findings of the American School of Classical Studies in Ancient Agora dating from Neolithic times until the post-Byzantine period and the Ottoman era."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Αρχαίας Αγοράς Αθηνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTransport> "Metro (200m from Monastiraki station), Electric Railway (350m from Thisseio station), Bus (150m from Monastiraki station)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9749129"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10555"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/12> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3279145579"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Athens"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasProjection_room> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "no"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasDescriptionEn> "The Art Collection of National Bank of Greece Museum includes about 1300 artworks made by great painters and sculptors of the 19th and 20th century."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "08:30-15:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Art Collection of National Bank of Greece"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasToilets> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSource> "http://odysseus.culture.gr/h/1/gh155.jsp?obj_id=3270"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 210 3341822;+30 210 3341833"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasParking> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7289548"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Aiolou"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "86"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSouvenir_shop> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ιδιωτική Συλλογή Έργων Τέχνης Εθνικής Τραπέζης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9817823"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10232"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/13> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3422656689"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μουσείο Ηλεκτρικών Σιδηροδρόμων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Fr 09:00-14:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactWebsite> "http://www.museum-synt-isap.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAccess> "permissive"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Electric Railways Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q5357472"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 21 44141552"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6425872"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Μουσείο Ηλεκτρικών Σιδηροδρόμων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Ηλεκτρικών Σιδηροδρόμων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9481619"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/14> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3783209910"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Πλωτό Ναυτικό Μουσείο Θωρηκτό Γεώργιος Αβέρωφ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo off; Tu-Fr 09:00-14:00; Sa,Su,PH 10:00-17:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactWebsite> "http://www.averof.mil.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasFee> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Floating Navy Museum Georgios Averof"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6844444"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Πλωτό Ναυτικό Μουσείο Θωρηκτό Γεώργιος Αβέρωφ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9332766"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/15> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3800579734"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Hellenic Children's Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7316615"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Παιδικό Μουσείο Αθηνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9723019"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/16> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactEmail> "epnom@culture.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3844131091"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Νομισματικό Μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "Stavros Niarchos Foundation"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousename> "Ιλίου Μέλαθρον"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Su 09:00-16:00; Mo off; PH off"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasDescription> "The Numismatic Museum owns 500.000 acquisitions ?mostly coins as well as medals, lead bullae, gems, weights, obeloi and talents- dated from the 14th century BC until today"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactFax> "+30 210 3635953"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasFee> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Numismatic Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q658339"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSource> "http://www.nma.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu de Numism?tica"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7353855"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Νομισματικό Μουσείο Αθηνών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameDe> "Numismatisches Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCountry> "GR"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+30 210 3632057;+30 210 3612834;+30 210 3612872"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Ελευθερίου Βενιζέλου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "12"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Νομισματικό Μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9778271"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10671"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/17> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3912027436"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Γκάζι"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Su 10:00-18:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactWebsite> "http://www.technopolis-athens.com/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Industrial Gas Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Tecnopolis"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.713629"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+302103461589"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Πειραιώς"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "100"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Βιομηχανικό Μουσείο Φωταερίου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9782437"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "118 54"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/18> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3960520131"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "YΠΠΟΑ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Sa 08:00-15:00; Tu off"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Man and Tools Exhibition"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu de Arte Popular Grega"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7257842"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Πανός"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "22"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://www.melt.gr/en/visit/the-museum-at-22-panos-str/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Εκθεση ¶νθρωποι και Εργαλεία"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9733731"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/19> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactEmail> "pinakothiki@pireasnet.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactFacebook> "https://www.facebook.com/dimotikipinakothikipireas"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/3962479953"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Δημοτική Πινακοθήκη Πειραιά"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Πειραιάς"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "no"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Fr 09:00-14:00,17:00-20:00; Sa-Su 10:00-15:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasDescription> "Operating from 1957, exposes works of modern Greek painters and after systematic study, documentation and at regular intervals will be posting newer artists, mainly of Piraeus. Also exposed a part of the collection of C. Kastrioti sculptures"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Municipal Gallery of Piraeus"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q12876094"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSource> "http://is.gd/MCgrv8"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6468125"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Δημοτική Πινακοθήκη Πειραιά"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCountry> "GR"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+30 210 4101402"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Φίλωνος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "29"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNote> "distinct node for the Gallery as there are different start_date, purpose and other details, which are not shared with the old post office building, on which is now hosted."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Δημοτική Πινακοθήκη Πειραιά"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.945302"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasStart_date> "1957"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "185 35"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/20> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4262198430"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "no"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "We-Su 10:00-18:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Herakleidon Museum (Annex)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu Herakleidon (Anexo)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 21 03461981"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7195576"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Αποστόλου Παύλου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "37"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://herakleidon-art.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Ηρακλειδών (Παράρτημα)"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.974961"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "11851"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/21> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4568351771"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Museum Sculptures and Effigies"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.734421"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Τιμολέοντος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "2"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Γλυπτών & Ομοιωμάτων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9661304"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "11636"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/22> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4773049839"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Πάρκο Ελευθερίας"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Athens Municipality Arts Center, Parko Eleftherias"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameFr> "Athens Municipality Arts Center, Parko Eleftherias"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7559528"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0047308"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/23> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4773051728"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameFr> "Stavropolou 15"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7304793"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Διατηρητέο Σταυροπούλου 15"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0017236"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/24> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4785564674"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Νέα Σμύρνη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "Filippos"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasEmail> "info@epm.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Fr 10:00-16:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasDescription> "Η Επιτροπή Ποντιακών Μελετών είναι σωματείο επιστημονικό, μη κερδοσκοπικού χαρακτήρα, ιδρύθηκε το 1927 στην Αθήνα. Η Βιβλιοθήκη λειτουργεί από το 1990, περιλαμβάνει 5.000 τίτλους περίπου και συνεχώς ανανεώνεται."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 210 9354333"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7160998"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Αγνώστων Μαρτύρων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "73"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://epm.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Επιτροπή Ποντιακών Μελετών"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9352737"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "17123"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/25> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4840589548"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Su 09:00-16:00; PH off"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q25535844"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 2105142138"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7072931"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Ψηφιακό Μουσείο της Ακαδημίας Πλάτωνος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://www.plato-academy.gr/museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ψηφιακό Μουσείο της Ακαδημίας Πλάτωνος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9944547"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/26> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/4970330021"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "The Breeders Gallery"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7199771"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Ιάσονος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "45"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9846553"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/27> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5241071789"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu Arqueol?gico de Maratona"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.9467187"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Αρχαιολογικό Μουσείο Μαραθώνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.122087"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/28> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5892784116"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Olympic Torches and Posters"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7420512"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9678302"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/29> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5980812063"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "Π.Ε.Κ.Α.Μ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Tu-Fr 10:00-13:00; Sa-Su 11:00-14:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Makronisos Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "2103247820"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7199431"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Αγίων Ασωμάτων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "31"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://www.pekam.org.gr/mouseio-makronhsou.html"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Μακρονήσου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9791972"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10553"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/30> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5980812064"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7198519"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Αγίων Ασωμάτων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "31"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Πολιτικών Εξορίστων ¶η Στράτη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9791613"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/31> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/5984988434"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "ΜΙΕΤ"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "on appointment\""^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 21 05221420"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7257615"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Παξινού-Μινωτή"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9847149"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/32> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/6534260972"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "10:00-22:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactWebsite> "https://museumofillusions.gr"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Museum of Illusions"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7227625"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+302103639627"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "¶στιγγος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "12"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο των ψευδαισθήσεων"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9768199"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "10555"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/33> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/6698853842"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOperator> "Πολιτιστικό Ίδρυμα Ομίλου Πειραιώς"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "by_appointment\""^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.6952715"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasContactPhone> "+30 2103418051"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Δωρίδος"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "2"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://www.piop.gr/el/istoriko-arxeio.aspx"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ιστορικό Αρχείο Πολιτιστικού Ιδρύματος Ομίλου Πειραιώς"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9720729"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/34> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMuseum> "art"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7227213296"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7253108"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "ΕΜΣΤ Εθνικό Μουσείο Σύγχρονης Τέχνης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.963024"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/35> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7305710773"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.644216"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Archaeological Museum of Piraeus"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9371365"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/36> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasMuseum> "archaeological"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7475508556"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePl> "Muzeum Akropolu"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEl> "Μουσείο Ακρόπολης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrCity> "Αθήνα"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTicket> "5 euro"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWheelchair> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo 08:00-16:00; Tu-Th, Sa-Su 08:00-20:00; Fr 08:00-22:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Acropolis Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameKo> "?????? ???"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameZh> "?????"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEs> "Museo de la Acr?polis"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikidata> "Q421084"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasSource> "https://www.theacropolismuseum.gr/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNamePt> "Museu da Acr?pole"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasPhone> "+30 21 0900 0900"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameIt> "Museo dell'Acropoli di Atene"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameFr> "Mus?e de l'Acropole d'Ath?nes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.728487"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWikipedia> "el:Μουσείο Ακρόπολης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameDe> "Akropolismuseum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Διονυσίου Αρεοπαγίτου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "15"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "https://www.theacropolismuseum.gr/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNote> "Το Μουσείο Ακρόπολης, από τα σπουδαιότερα στον κόσμο, περιλαμβάνει μοναδικά αριστουργήματα, κυρίως πρωτότυπα έργα της αρχαϊκής και κλασικής ελληνικής τέχνης, που συνδέονται άμεσα με τον ιερό βράχο της αθηναϊκής Ακρόπολης."^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameRu> "????? ????? ????????"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Ακρόπολης"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "37.9684941"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasBuilding> "yes"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrPostcode> "11742"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/37> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7577315362"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Fr 09:00-15:00; Sa-Su 10:00-14:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Marathon Run Museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.9612394"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "http://marathonrunmuseum.com/el/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Μουσείο Μαραθώνιου δρόμου"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.1552523"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/38> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7862640003"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Fr 09:00-14:00"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.8066956"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasName> "Ιστορικό και λαογραφικό μουσείο"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0582747"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://ai.di.uoa.gr/OSM/museum/id/39> a <http://ai.di.uoa.gr/OSM/ontology#museum> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasTourism> "museum"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasId> "node/7899630085"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasOpening_hours> "Mo-Fr 18:00-21:30"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasNameEn> "Blank Wall Gallery"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLongitude> "23.7397752"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrStreet> "Φωκίωνος Νέγρη"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasAddrHousenumber> "55"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasWebsite> "https://www.blankwallgallery.com/"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasLatitude> "38.0019271"^^<http://www.w3.org/2001/XMLSchema#string> ;
+	<http://ai.di.uoa.gr/OSM/ontology#hasGeometry> "Point"^^<http://www.w3.org/2001/XMLSchema#string> .

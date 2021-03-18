@@ -1,0 +1,414 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix  rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@base <http://geotriples.eu/base> .
+@prefix rrx: <http://www.w3.org/ns/r2rml-ext#>.
+@prefix rrxf: <http://www.w3.org/ns/r2rml-ext/functions/def/>.
+@prefix ogc: <http://www.opengis.net/ont/geosparql#>.
+@prefix schema: <http://schema.org/>.
+@prefix onto: <http://ai.di.uoa.gr/OSM/ontology#>.
+
+<#museum>
+rml:logicalSource [
+	rml:source "/geotriples-core-1.1.6-SNAPSHOT/../inout/museum.csv";
+	rml:referenceFormulation ql:CSV;
+	rml:iterator "museum";
+];
+rr:subjectMap [
+	rr:template "http://ai.di.uoa.gr/OSM/museum/id/{GeoTriplesID}";
+	rr:class onto:museum;
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasLatitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "latitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasLongitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "longitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAltitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "altitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasGeometry ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "geometry";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasId ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "@id";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasTourism ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "tourism";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasName ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:el";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEn ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:en";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWebsite ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "website";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWikidata ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wikidata";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWikipedia ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wikipedia";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAlt_name ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "alt_name";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAlt_nameEl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "alt_name:el";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAlt_nameEn ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "alt_name:en";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrCity ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:city";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrHousename ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:housename";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrHousenumber ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:housenumber";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrPostcode ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:postcode";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrStreet ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:street";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasDescription ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "description";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasEmail ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "email";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEs ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:es";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNamePl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:pl";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNamePt ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:pt";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasOpening_hours ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "opening_hours";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasPhone ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "phone";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasSource ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "source";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWheelchair ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wheelchair";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrCountry ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:country";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasBibliography ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "bibliography";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasContactPhone ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "contact:phone";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasContactWebsite ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "contact:website";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameFr ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:fr";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameZh ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:zh";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNote ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "note";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasOperator ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "operator";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasTicket ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "ticket";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasTransport ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "transport";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasDescriptionEn ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "description:en";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasParking ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "parking";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasProjection_room ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "projection_room";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasSouvenir_shop ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "souvenir_shop";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasToilets ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "toilets";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAccess ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "access";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasFee ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "fee";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasContactEmail ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "contact:email";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasContactFax ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "contact:fax";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameDe ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:de";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasContactFacebook ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "contact:facebook";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasStart_date ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "start_date";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMuseum ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "museum";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasBuilding ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "building";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameIt ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:it";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameKo ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:ko";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameRu ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:ru";
+	];
+].
+

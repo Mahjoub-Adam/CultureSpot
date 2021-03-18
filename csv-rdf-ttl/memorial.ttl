@@ -1,0 +1,372 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix  rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@base <http://geotriples.eu/base> .
+@prefix rrx: <http://www.w3.org/ns/r2rml-ext#>.
+@prefix rrxf: <http://www.w3.org/ns/r2rml-ext/functions/def/>.
+@prefix ogc: <http://www.opengis.net/ont/geosparql#>.
+@prefix schema: <http://schema.org/>.
+@prefix onto: <http://ai.di.uoa.gr/OSM/ontology#>.
+
+<#memorial>
+rml:logicalSource [
+	rml:source "/geotriples-core-1.1.6-SNAPSHOT/../inout/memorial.csv";
+	rml:referenceFormulation ql:CSV;
+	rml:iterator "memorial";
+];
+rr:subjectMap [
+	rr:template "http://ai.di.uoa.gr/OSM/memorial/id/{GeoTriplesID}";
+	rr:class onto:memorial;
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasLatitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "latitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasLongitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "longitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAltitude ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "altitude";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasGeometry ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "geometry";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasId ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "@id";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasHistoric ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "historic";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMemorial ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "memorial";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasEle ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "ele";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasName ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:el";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEn ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:en";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtistWikidata ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artist:wikidata";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtist_name ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artist_name";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMaterial ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "material";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameDe ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:de";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameFr ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:fr";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameRu ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:ru";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasStart_date ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "start_date";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasSubjectWikidata ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "subject:wikidata";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWikidata ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wikidata";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWikipedia ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wikipedia";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtwork_type ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artwork_type";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasDescription ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "description";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasTourism ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "tourism";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasInscription ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "inscription";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameEs ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:es";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasSource ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "source";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasSubjectWikipedia ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "subject:wikipedia";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMemorialConflict ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "memorial:conflict";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtistWikipedia ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artist:wikipedia";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWheelchair ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "wheelchair";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtist ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artist";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameHHe ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:he";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNamePl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:pl";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasNameIt ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "name:it";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasFixme ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "fixme";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasHeight ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "height";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMemorialType ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "memorial:type";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasInscriptionUrl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "inscription:url";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasWidth ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "width";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrCity ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:city";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasAddrStreet ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "addr:street";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasDescriptionEl ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "description:el";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasDescriptionEn ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "description:en";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasMan_made ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "man_made";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasBuilding ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "building";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasColour ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "colour";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasArtwork_subject ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "artwork_subject";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasHistoricCivilization ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "historic:civilization";
+	];
+];
+rr:predicateObjectMap [
+	rr:predicateMap [ rr:constant onto:hasHistoricPeriod ];
+	rr:objectMap [
+		rr:datatype  xsd:string;
+		rml:reference "historic:period";
+	];
+].
+
