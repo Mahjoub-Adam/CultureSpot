@@ -1,20 +1,22 @@
-# CultureSpot
+Instructions on how to use the application :
 
 
-
-1.Load the rdf-ttl files to a GraphDb database.
-
+Download the CultureSpot folder and open it with Android Studio, which you have to download.
 
 
-2.Connect Firebase with the project
+Connect Firebase with the project through Android Studio Tools.
 
 
-3.Change the GraphDB_URL in MapFragment.java:89 to your graphdb url
+Change the GraphDB_URL in MapFragment.java:89(file:line) to your GraphDB url found in the dashboard of the GraphDB application, which you have to download.
 
 
-
-4.Put your Google API keys in MapFragment:841 google_maps_api:19(src/debug and src/release/res/values) AndroidManifest.xml:33 google-services.json:23
-
+Put your Google API keys in MapFragment:841 google_maps_api:19(src/debug and src/release/res/values) AndroidManifest.xml:33 google-services.json:23.This key can be created in Google Cloud Console(google account is needed).
 
 
-5.Run the code from Android Studio
+Load the rdf-ttl files to your  GraphDb database(First Setup->Repositories->Create a new Repository and then Import->RDF to load the files).
+
+
+Run the code from Android Studio.
+
+
+READ THESIS.pdf for more information
