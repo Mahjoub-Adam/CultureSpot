@@ -19,4 +19,4 @@ Load the rdf-ttl files to your  GraphDb database(First Setup->Repositories->Crea
 Run the code from Android Studio.
 
 
-READ THESIS.pdf for more information
+READ THESIS.pdf for more information.
